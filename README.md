@@ -1,6 +1,6 @@
 # SolveMateAI - A Comprehensive SaaS Product
 
-Welcome to SolveMateAI, the comprehensive solution for your different solution. Our platform provides a seamless user experience, powered by a modern tech stack and best practices in web development. With a focus on user-centric design, we deliver a powerful platform that's as pleasant to use as it is efficient.
+Welcome to SolveMateAI, the comprehensive solution for your different solution. Our platform provides a seamless user experience, powered by a modern tech stack and best practices in web development. With a focus on user-centric design, we deliver a powerful platform that's pleasant to use as it is efficient.
 
 # 🌐 Quick Links
 - [Live Demo](https://stay-solution-bd-emranswe.vercel.app/)
